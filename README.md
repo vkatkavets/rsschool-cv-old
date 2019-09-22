@@ -1,1 +1,1 @@
-http://programisterx.github.io/rsschool-cv
+http://programisterx.github.io/rsschool-cv/cv
