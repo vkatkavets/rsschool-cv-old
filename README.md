@@ -1,1 +1,1 @@
-# rsschool-cv
+http://programisterx.github.io/rsschool-cv
