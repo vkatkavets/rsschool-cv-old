@@ -37,7 +37,7 @@ Some examples of my self-education results you can see here - [GitHub](https://g
 * [Github](https://github.com/pRogramISteRx)
 
 ## Education
-Higher: 2014 - 2019 Belarusian State University of Informatics and Radioelectronics.
+Higher: 2014 - 2019 Belarusian State University of Informatics and Radioelectronics. Specialisation: Engineer-programmer-economist.
 
 ## English level
 My current level is Pre-intermediate (А2).
