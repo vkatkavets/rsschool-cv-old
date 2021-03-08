@@ -1,0 +1,131 @@
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  html, body {
+    /* width: 1024px;
+    height: auto; */
+    /* margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto; */
+    font-family: 'Arial', sans-serif;
+    color: black;
+    background-color: azure;
+  }
+
+  img {
+    float: left;
+    width: 200px;
+    height: 250px;  
+    margin-right: 20px;
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    margin-left: 20px;
+    padding: 10px;
+    font-weight: 700;
+    color: #000;
+  }
+  
+  h2 {
+    color: #796767;
+    margin-top: 10px;
+    font-size: 25px;
+  }
+  
+  a {
+    color: rgb(10, 10, 196);
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #ee3636;
+    text-decoration: underline;
+  }
+
+  p {
+    margin-top: 5px;
+    padding-left: 2px;
+  }
+  
+  div p {
+    margin-top: 0;
+    
+  }
+
+  ul {
+    margin-top: 5px;
+    padding: 0;
+  }
+ 
+  li {
+    margin-left: 20px;
+  }
+
+  mark {
+    background-color: blanchedalmond;
+  }
+
+  .wrapper {
+    max-width: 1200px;
+    margin: auto;
+  }
+
+  header {
+    background-color: rgb(236, 255, 168);
+    margin-bottom: 20px;
+  }
+
+  .name{
+    padding: 10px;
+    /* background-color: rgb(189, 255, 233); */
+  }
+
+  .contacts {
+    padding: 10px;
+    
+  }
+
+  .contacts li {
+    list-style-type: none;
+  }
+
+  .summary {
+    padding: 10px;
+    clear: left;
+  }
+
+  .code-example {
+    padding: 10px;
+  }
+  
+  .skills {
+    padding: 10px;
+  }
+  
+  .education {
+    padding: 10px;
+    
+  }
+  
+  .experience {
+    padding: 10px;
+    
+  }
+  
+  .english-level {
+    padding: 10px;
+    
+  }
+
+  footer {
+    font-weight: bold;  
+    margin-top: 20px;  
+    padding: 5px 10px 5px 10px;  
+    background-color: rgb(236, 255, 168);
+    font-size: 15px;
+  }
+
+  
